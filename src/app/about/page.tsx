@@ -201,26 +201,14 @@ export default function AboutPage() {
             </motion.div>
             
             <div className="space-y-12" data-unique-id="88926569-4633-4a11-920e-45aacfea24d7" data-file-name="app/about/page.tsx" data-dynamic-text="true">
-              {[{
-              year: "2020",
+              {[ {
+              year: "2024",
               title: "The Idea",
               description: "BountyHub was born from the frustration of traditional freelance platforms. Our founders saw a need for a more direct, task-focused approach to connecting talent with opportunities."
             }, {
-              year: "2021",
-              title: "Building the Foundation",
-              description: "Our team of developers, designers, and industry experts came together to build the first version of BountyHub, focusing on user experience and fair compensation models."
-            }, {
-              year: "2022",
-              title: "Launch & Growth",
-              description: "BountyHub officially launched, quickly gaining traction among professionals and businesses looking for a better way to collaborate on specific tasks and projects."
-            }, {
-              year: "2023",
-              title: "Expanding Horizons",
-              description: "We expanded our platform to include more categories, improved features, and enhanced safety measures to better serve our growing community."
-            }, {
               year: "Today",
-              title: "Continuous Innovation",
-              description: "Today, BountyHub continues to grow and evolve, always with our core mission in mind: connecting talent with opportunity in the most efficient, fair, and transparent way possible."
+              title: "Building and Launching",
+              description: "Our team of developers, designers, and industry experts came together to build the first version of BountyHub, focusing on user experience. BountyHub officially launched, quickly gaining traction among professionals and businesses looking for a better way to collaborate on specific tasks and projects."
             }].map((milestone, index) => <motion.div key={index} initial={{
               opacity: 0,
               x: index % 2 === 0 ? -20 : 20
