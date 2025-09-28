@@ -1,6 +1,5 @@
-# Bounty-Hub
-## SunHacks-26
-# 🎯 BountyBoard – Freelancing Meets Bounty Hunting  
+# SunHacks-26
+# #🎯 BountyBoard – Freelancing Meets Bounty Hunting  
 
 ## Overview  
 BountyBoard is a web platform that blends the **urgency of bounty hunting** with the **flexibility of freelancing**.  
